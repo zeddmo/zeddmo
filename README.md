@@ -43,11 +43,6 @@ Custom C++ plugin engineered for smooth, low-latency camera freelook behavior.
 
 Read case study: [projects/BAKKESMOD_PLUGIN_CASE_STUDY.md](projects/BAKKESMOD_PLUGIN_CASE_STUDY.md)
 
-### Portfolio-Ready Full-Stack Product Concepts
-Professional website products I can build and ship as portfolio-grade systems.
-
-Read concepts: [projects/FULLSTACK_WEBSITE_IDEAS.md](projects/FULLSTACK_WEBSITE_IDEAS.md)
-
 ## Technical Stack
 
 ### Frontend
@@ -79,6 +74,10 @@ Read concepts: [projects/FULLSTACK_WEBSITE_IDEAS.md](projects/FULLSTACK_WEBSITE_
 - Languages: Arabic (Native), English (Proficient)
 
 Detailed CV summary: [CV.md](CV.md)
+
+## Public Showcase (No Source Code)
+
+- https://github.com/zeddmo/zeddmo-showcase
 
 ## Contact
 
