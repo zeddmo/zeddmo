@@ -1,45 +1,30 @@
-# Rocket League Freelook Plugin (BakkesMod) - Case Study
+# Rocket League Freelook Plugin - Delivered Case Study
 
 ## Project Type
-Native plugin development in C++ for BakkesMod (Rocket League tooling ecosystem).
+Native plugin development in C++ for BakkesMod.
 
-## Problem
-Standard camera behavior can limit precision and comfort for certain gameplay and training workflows. A controlled freelook utility is needed with smooth response and predictable reset behavior.
+## Delivery Evidence Snapshot (2026-03-29)
+- Source files in plugin module: 2
+- FreelookPlugin.cpp lines: 537
+- FreelookPlugin.h lines: 37
+- Key implementation marker hits in source scan: 14
 
-## Scope Delivered
-- Freelook activation/deactivation command model
-- Raw mouse input handling for accurate camera deltas
-- Dynamic keybind system with runtime capture and validation
-- In-game settings UI with sensitivity controls
-- Safety logic for focus loss and state recovery
+## Key Implementation Markers Found
+- Input thread creation and lifecycle handling
+- Runtime CVar registration for plugin control/sensitivity/bind
+- Runtime command notifier registration
+- Camera update hook registration
+- Settings UI rendering and runtime bind capture
+- Camera swivel reset and active-update logic
 
-## Technical Details
-- Language: C++
-- Runtime context: BakkesMod plugin SDK
-- Input pipeline: Win32 raw input + async key state checks
-- Camera control: direct swivel updates with pitch clamp and reset paths
-
-## Reliability Features
-- Graceful reset when key-up events are missed
-- Focus-aware handling for alt-tab and foreground changes
-- Raw input thread lifecycle management
-- Defensive checks for invalid bind configurations
-
-## UX Features
-- Enable/disable plugin toggle
-- Sensitivity slider with reset option
-- "Click To Set Bind" interaction for keyboard/mouse mapping
-- Hold-to-look behavior for intuitive control
-
-## Engineering Focus
-- Low-latency response path
-- Stable state transitions under edge cases
-- Maintainable key mapping strategy across multiple input types
+## Integrity Hashes (SHA-256)
+- FreelookPlugin.cpp: 2BDA945ED747F557BEA2DD85C760A70F81A7A9AADDD0073737ACD3ADD21C7C92
+- FreelookPlugin.h: C22B0607760566A7F72B262BA8C3F53B55D77A90DB74083BB95B308FF34E5E40
+- CMakeLists.txt: C6E1A3FDAA09571F66E269BFF53B660AEEC535583FB636A9C5A205C9C201A634
+- build.bat: A3BBCF94BA510E19BD8694A8CAEC8E362086E873705BDA17DB8DC4C49B737E15
 
 ## Source Code Availability
-Source is private by design.
+Implementation source is private by design.
 
-Can be shared in controlled settings as:
-- Build demo
-- Technical walkthrough
-- Plugin behavior review
+Public proof and visual showcase:
+- https://github.com/zeddmo/zeddmo-showcase

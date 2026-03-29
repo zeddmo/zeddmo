@@ -1,91 +1,63 @@
 <h1 align="center">Yassin Mahmoud</h1>
-<p align="center"><b>Full-Stack Web Developer | Product Builder | Game Plugin Engineer</b></p>
-<p align="center">Cairo, Egypt • Open to product engineering and freelance opportunities</p>
+<p align="center"><b>Full-Stack Web Developer | Product Builder | Systems-Focused Engineer</b></p>
+<p align="center">Cairo, Egypt • Private-source delivery model • Production-first mindset</p>
 
 <p align="center">
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Production%20Web%20Engineering-0f766e?style=for-the-badge">
+  <img alt="Proof" src="https://img.shields.io/badge/Portfolio-Delivered%20Proof%20Only-0f766e?style=for-the-badge">
   <img alt="Stack" src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20TypeScript-1d4ed8?style=for-the-badge">
-  <img alt="Policy" src="https://img.shields.io/badge/Source%20Code-Private%20by%20Design-334155?style=for-the-badge">
+  <img alt="Security" src="https://img.shields.io/badge/Source%20Code-Private-334155?style=for-the-badge">
 </p>
 
 ## Professional Summary
 
-I build production-grade web products focused on performance, reliability, maintainability, and user experience. My work covers architecture, frontend systems, backend APIs, quality automation, and deployment workflows.
+I build production-grade web systems with strong focus on architecture quality, performance, security, and maintainability. I ship complete products: frontend UX, backend services, deployment workflow, and technical documentation.
 
-Featured projects are developed in private repositories. Public artifacts are intentionally limited to case studies, architecture-level documentation, and product outcomes.
+This profile is intentionally proof-first. Public repositories show delivery evidence and visual proof pages. Implementation source stays private.
 
-## What Professional Web Developers Do
+## What Professional Web Developers Deliver
 
-- Translate business requirements into clear product and technical specifications
-- Design maintainable architecture, data models, and API contracts
-- Build responsive, accessible interfaces with strong UX standards
-- Implement secure backend services with robust validation and authorization
-- Add automated quality gates through regression, smoke, sanity, and end-to-end tests
-- Optimize performance, scalability, and reliability before production rollout
-- Ship using CI/CD workflows with environment-safe release processes
-- Document systems clearly for team onboarding and long-term maintenance
+- Clear product and technical specs from business requirements
+- Scalable architecture, schema planning, and API contract design
+- Responsive and accessible interfaces with high UX quality
+- Secure backend services with validation and role-based authorization
+- Testing discipline across regression, smoke, sanity, and end-to-end layers
+- Release quality through CI/CD and deployment safety checks
+- Complete handoff documentation for maintainability and team scaling
 
-## Featured Projects
+## Delivered Work (Proof)
 
 ### SportsHub Egypt (Private Source)
-Production-scale sports booking and community platform.
-
-- Multi-role platform: players, venue owners, admins
-- Booking workflows, match discovery, team operations, messaging, and payments
-- Real-time interactions, CI/CD workflow, and production-style organization
-- 100+ implemented features across a phased roadmap
-
-Read case study: [projects/SPORTSHUB_CASE_STUDY.md](projects/SPORTSHUB_CASE_STUDY.md)
+- Full-stack platform with frontend app surface, backend route layer, and production documentation
+- Verified project evidence snapshot captured from local implementation on March 29, 2026
+- Proof package and visual pages: https://github.com/zeddmo/zeddmo-showcase
 
 ### Rocket League Freelook Plugin - BakkesMod (Private Source)
-Custom C++ plugin engineered for smooth, low-latency camera freelook behavior.
+- Native plugin implementation in C++ with robust camera/input control handling
+- Verified implementation markers and source artifact hashes captured on March 29, 2026
+- Proof package and visual pages: https://github.com/zeddmo/zeddmo-showcase
 
-- Raw input capture and direct camera swivel updates
-- Hold-to-activate logic with robust reset handling
-- In-game settings panel: enable toggle, sensitivity, custom bind capture
-- Edge-case handling for focus loss, key-up misses, and mode transitions
+## Visual Proof Gallery
 
-Read case study: [projects/BAKKESMOD_PLUGIN_CASE_STUDY.md](projects/BAKKESMOD_PLUGIN_CASE_STUDY.md)
+- Proof Hub: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/pages/index.html
+- SportsHub Proof Page: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/pages/sportshub-delivery-proof.html
+- BakkesMod Proof Page: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/pages/bakkesmod-delivery-proof.html
 
-## Technical Capabilities
+## Public Evidence Documents
 
-### Frontend
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express
-- MongoDB + Mongoose
-- JWT and role-based access patterns
-
-### Delivery and Quality
-- CI/CD workflows
-- Containerized deployment with Docker
-- Test strategy across regression, smoke, sanity, and end-to-end levels
-- Documentation and handoff standards
-
-### Additional
-- Python
-- UI/UX design systems
-- Graphic design
+- Delivery Proof Index: [projects/DELIVERY_PROOF_INDEX.md](projects/DELIVERY_PROOF_INDEX.md)
+- SportsHub Case Study: [projects/SPORTSHUB_CASE_STUDY.md](projects/SPORTSHUB_CASE_STUDY.md)
+- BakkesMod Case Study: [projects/BAKKESMOD_PLUGIN_CASE_STUDY.md](projects/BAKKESMOD_PLUGIN_CASE_STUDY.md)
 
 ## CV Snapshot
 
 - Education: New Giza University, Computer Science (2024-Present)
-- Certifications/Courses: CS50 Programming, CS50 AI with Python, Data Science Probability, and more
+- Training: CS50 Programming, CS50 AI with Python, Data Science Probability, and related technical coursework
 - Languages: Arabic (Native), English (Proficient)
 
 Detailed CV summary: [CV.md](CV.md)
-
-## Public Showcase (No Source Code)
-
-- https://github.com/zeddmo/zeddmo-showcase
 
 ## Contact
 
 - Email: yassin.158.mahmoud@gmail.com
 
-If you want a private demo or architecture walkthrough for any featured project, reach out by email.
+For private demo walkthroughs or architecture reviews, contact by email.
