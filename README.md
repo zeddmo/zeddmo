@@ -2,21 +2,26 @@
 
 Full-Stack Web Developer.
 
-Premium landing collection (6 one-page sites, proof-first):
-- Launchpad: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/index.html
-- SportsHub Command: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-sportshub-command.html
-- SportsHub Premium: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-sportshub-premium.html
-- BakkesMod Cockpit: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-bakkesmod-cockpit.html
-- Delivery Forensics: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-delivery-forensics.html
-- Release Reliability: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-release-reliability.html
-- Product Velocity: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-product-velocity.html
+Primary CV page (HTML):
+- https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/cv.html
+
+Project README (e-commerce, WordPress, SaaS, and more):
+- https://github.com/zeddmo/zeddmo-showcase/blob/main/README.md
+
+Landing collection:
+- https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/index.html
+
+Direct landing pages:
+1. https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-sportshub-command.html
+2. https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-sportshub-premium.html
+3. https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-bakkesmod-cockpit.html
+4. https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-delivery-forensics.html
+5. https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-release-reliability.html
+6. https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/landing-product-velocity.html
 
 Policy:
-- Public proof on landing pages
-- Private source code in private repositories
-
-Showcase repository:
-- https://github.com/zeddmo/zeddmo-showcase
+- Public proof
+- Private source code
 
 Contact:
 - yassin.158.mahmoud@gmail.com
