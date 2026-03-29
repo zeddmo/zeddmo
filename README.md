@@ -3,6 +3,10 @@
 <p align="center">Cairo, Egypt • Private-source delivery model • Production-first mindset</p>
 
 <p align="center">
+  <img src="assets/hero-proof-banner.svg" alt="Yassin Mahmoud delivered proof portfolio banner" width="100%">
+</p>
+
+<p align="center">
   <img alt="Proof" src="https://img.shields.io/badge/Portfolio-Delivered%20Proof%20Only-0f766e?style=for-the-badge">
   <img alt="Stack" src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20TypeScript-1d4ed8?style=for-the-badge">
   <img alt="Security" src="https://img.shields.io/badge/Source%20Code-Private-334155?style=for-the-badge">
@@ -41,6 +45,7 @@ This profile is intentionally proof-first. Public repositories show delivery evi
 - Proof Hub: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/pages/index.html
 - SportsHub Proof Page: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/pages/sportshub-delivery-proof.html
 - BakkesMod Proof Page: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/pages/bakkesmod-delivery-proof.html
+- Professional Web Delivery Page: https://htmlpreview.github.io/?https://raw.githubusercontent.com/zeddmo/zeddmo-showcase/main/pages/professional-web-delivery.html
 
 ## Public Evidence Documents
 
