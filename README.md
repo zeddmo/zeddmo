@@ -3,23 +3,27 @@
 <p align="center">Cairo, Egypt • Open to product engineering and freelance opportunities</p>
 
 <p align="center">
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Apps-0f766e?style=for-the-badge">
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Production%20Web%20Engineering-0f766e?style=for-the-badge">
   <img alt="Stack" src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20TypeScript-1d4ed8?style=for-the-badge">
   <img alt="Policy" src="https://img.shields.io/badge/Source%20Code-Private%20by%20Design-334155?style=for-the-badge">
 </p>
 
 ## Professional Summary
 
-I build production-grade web products focused on performance, reliability, and user experience. My strongest work is in full-stack JavaScript/TypeScript systems, real-time features, and end-to-end delivery.
+I build production-grade web products focused on performance, reliability, maintainability, and user experience. My work covers architecture, frontend systems, backend APIs, quality automation, and deployment workflows.
 
-My featured projects are developed in private repositories. Public artifacts are intentionally limited to architecture-focused case studies, product scope, and engineering outcomes.
+Featured projects are developed in private repositories. Public artifacts are intentionally limited to case studies, architecture-level documentation, and product outcomes.
 
-## Core Strengths
+## What Professional Web Developers Do
 
-- Full-stack architecture with Next.js, React, Node.js, Express, MongoDB, and TypeScript
-- Real-time features and event-driven flows with Socket.io-style patterns
-- Product delivery from UI/UX design through implementation, testing, and deployment
-- Documentation-first engineering for maintainability and team handoff
+- Translate business requirements into clear product and technical specifications
+- Design maintainable architecture, data models, and API contracts
+- Build responsive, accessible interfaces with strong UX standards
+- Implement secure backend services with robust validation and authorization
+- Add automated quality gates through regression, smoke, sanity, and end-to-end tests
+- Optimize performance, scalability, and reliability before production rollout
+- Ship using CI/CD workflows with environment-safe release processes
+- Document systems clearly for team onboarding and long-term maintenance
 
 ## Featured Projects
 
@@ -28,7 +32,7 @@ Production-scale sports booking and community platform.
 
 - Multi-role platform: players, venue owners, admins
 - Booking workflows, match discovery, team operations, messaging, and payments
-- Real-time interactions, CI/CD workflow, and production-style system organization
+- Real-time interactions, CI/CD workflow, and production-style organization
 - 100+ implemented features across a phased roadmap
 
 Read case study: [projects/SPORTSHUB_CASE_STUDY.md](projects/SPORTSHUB_CASE_STUDY.md)
@@ -43,7 +47,7 @@ Custom C++ plugin engineered for smooth, low-latency camera freelook behavior.
 
 Read case study: [projects/BAKKESMOD_PLUGIN_CASE_STUDY.md](projects/BAKKESMOD_PLUGIN_CASE_STUDY.md)
 
-## Technical Stack
+## Technical Capabilities
 
 ### Frontend
 - Next.js
@@ -57,10 +61,11 @@ Read case study: [projects/BAKKESMOD_PLUGIN_CASE_STUDY.md](projects/BAKKESMOD_PL
 - MongoDB + Mongoose
 - JWT and role-based access patterns
 
-### DevOps and Quality
-- Docker workflows
-- CI/CD pipelines
-- Testing: regression, smoke, sanity, end-to-end
+### Delivery and Quality
+- CI/CD workflows
+- Containerized deployment with Docker
+- Test strategy across regression, smoke, sanity, and end-to-end levels
+- Documentation and handoff standards
 
 ### Additional
 - Python
